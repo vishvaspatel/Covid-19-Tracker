@@ -1,8 +1,5 @@
 # Covid-19-Tracker
 
-### Live Demo
-website link (deployed in firebase):-https://covid-19-tracker-neelpatel.web.app/
-
 ## Description
 
 The web application serves many purposes to track the current corona cases worldwide. Using the Leaflet Library, the map displays the cases, recovered, and death in each country allowing the user to choose countries from a drop-down menu and hover over the countries for detailed information.
@@ -24,8 +21,6 @@ ReactJS functional component <br>
 → Css3 <br>
 
 ## For Installation
-
-Step 1 :- `git clone https://github.com/Neelpatel11/Covid-19-Tracker`
 
 Step 2 :- `cd Covid-19-Tracker`
 
